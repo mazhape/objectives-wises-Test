@@ -1,11 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e16190d6-52c8-49b3-bc65-bc6c9d3b6432" name="Changes" comment="" />
+    <list default="true" id="e16190d6-52c8-49b3-bc65-bc6c9d3b6432" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/workingWith/JavaBasics/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/JavaBasics/Elliptical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/JavaBasics/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/ChangeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/ChangeTest0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/DatabaseWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Holder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/InitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/LoadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/Noobs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/OverloadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/OverloadingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/ParamTestDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/ParamTestInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/Prof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/TestClassOver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/YYY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Powwow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/StaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/TestClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/TestClassContents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/TestClassData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/TestClassMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/TestClassOutside.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/TestClassWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/TestClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Triangles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/constructors/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/constructors/BigBang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/constructors/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/constructors/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/constructors/TestClassValid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,13 +69,38 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TestClasses.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Working-with-Constructors-Methods-and-Encapsulation",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="TestClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="workingWith.Methods.TestClasses" />
+      <module name="Objective-wise Tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="workingWith.Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestClasses" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -44,7 +117,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742073113106</updated>
-      <workItem from="1742073114088" duration="1000" />
+      <workItem from="1742073114088" duration="9791000" />
     </task>
     <servers />
   </component>
