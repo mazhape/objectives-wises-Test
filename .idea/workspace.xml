@@ -5,42 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e16190d6-52c8-49b3-bc65-bc6c9d3b6432" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/workingWith/JavaBasics/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/JavaBasics/Elliptical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/JavaBasics/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/ChangeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/ChangeTest0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/DatabaseWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Holder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/InitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/LoadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/Noobs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/OverloadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/OverloadingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/ParamTestDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/ParamTestInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/Prof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/TestClassOver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/YYY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Powwow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/StaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/TestClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/TestClassContents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/TestClassData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/TestClassMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/TestClassOutside.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/TestClassWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/TestClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Triangles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/constructors/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/constructors/BigBang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/constructors/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/constructors/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/constructors/TestClassValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/BB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/BK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/Ba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/Beta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/CC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/Classes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/ClassnameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/ExtendsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/MyTesrt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/Soccer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/Speak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClassAbs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClassBye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClassChanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClassGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClassMNOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClassMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClassPlaine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClassSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/Y.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/A2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/Bb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/Declarations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/ReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/TestClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/TestClassDoll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/TestClassInhe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/TestClassInheri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/JavaBasics/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/TestClassLoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/TestClassOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/TestClassStatic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,9 +71,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2uMzDd4WdxHefwoQvJyXu4ig9xh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -71,13 +84,15 @@
   "keyToString": {
     "Application.TestClasses.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Working-with-Constructors-Methods-and-Encapsulation",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Working-with-Inheritance",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -118,6 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1742073113106</updated>
       <workItem from="1742073114088" duration="9791000" />
+      <workItem from="1742278375960" duration="152000" />
     </task>
     <servers />
   </component>
