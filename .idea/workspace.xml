@@ -5,55 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e16190d6-52c8-49b3-bc65-bc6c9d3b6432" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/BB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/BK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/Ba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/Beta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/CC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/Classes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/ClassnameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/ExtendsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/MyTesrt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/Soccer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/Speak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/T3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClassAbs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClassBye.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClassChanges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClassGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClassMNOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClassMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClassPlaine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/TestClassSuper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/inheritance/Y.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/A2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/Bb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/Declarations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/ReturnType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/TestClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/TestClassDoll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/TestClassInhe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingInheritance/working/TestClassInheri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/JavaBasics/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/TestClassLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/Overloading/TestClassOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/workingWith/Methods/TestClassStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoopConstructs/PointTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,22 +32,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.TestClasses.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Working-with-Inheritance",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.TestClasses.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Using-Loop-Constructs&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="TestClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="workingWith.Methods.TestClasses" />
@@ -133,7 +85,8 @@
       <option name="presentableId" value="Default" />
       <updated>1742073113106</updated>
       <workItem from="1742073114088" duration="9791000" />
-      <workItem from="1742278375960" duration="152000" />
+      <workItem from="1742278375960" duration="17581000" />
+      <workItem from="1742362074530" duration="373000" />
     </task>
     <servers />
   </component>
