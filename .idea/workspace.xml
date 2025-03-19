@@ -5,7 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e16190d6-52c8-49b3-bc65-bc6c9d3b6432" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LoopConstructs/PointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/AX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayDeclarations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayDefinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayTestTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/BooleanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FunWithArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/IndexTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SomeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/StringArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/StringMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TestArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TestClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TestClassBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TestClassMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TestClassiArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TestGetArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TestInt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,22 +51,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.TestClasses.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Using-Loop-Constructs&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TestClasses.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Creating-and-Using-Arrays",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="TestClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="workingWith.Methods.TestClasses" />
