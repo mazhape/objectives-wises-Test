@@ -5,26 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e16190d6-52c8-49b3-bc65-bc6c9d3b6432" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/AX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayDeclarations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayDefinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayTestTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/BooleanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/FunWithArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/IndexTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SomeClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/StringArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/StringMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TestArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TestClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TestClassBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TestClassMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TestClassiArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TestGetArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TestInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/AA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/ExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/FinallyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/FloatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/NewBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/PortConnector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/SomeExceptionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/TestArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/TestClassBig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/TestClassFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/TestClassFoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/TestClassLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/TestClassThrowable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/TestClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/TestE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/TestExcep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/TestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/TestFloat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/TestLuckyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/TestStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExceptions/TestTry.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,22 +55,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.TestClasses.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Creating-and-Using-Arrays",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.TestClasses.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Handling-Exceptions&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="TestClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="workingWith.Methods.TestClasses" />
@@ -106,6 +110,7 @@
       <workItem from="1742073114088" duration="9791000" />
       <workItem from="1742278375960" duration="17581000" />
       <workItem from="1742362074530" duration="373000" />
+      <workItem from="1742454456535" duration="3966000" />
     </task>
     <servers />
   </component>
