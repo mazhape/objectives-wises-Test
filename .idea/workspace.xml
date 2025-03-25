@@ -18,6 +18,41 @@
       <change afterPath="$PROJECT_DIR$/src/JavaDataTypes/TestClassResult.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JavaDataTypes/TestClassUnassigned.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JavaDataTypes/TestInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/ArithmeticOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/BooleanOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/BooleanOperatorcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/BooleanOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/CodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/CrazyMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/ForSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/IfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/IfTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/InitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/LoopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/MethodClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/PromotionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/STest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/ScopeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/Statements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/SwitchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/TestClassArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/TestClassBoolMetho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/TestClassBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/TestClassDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/TestClassFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/TestClassGetSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/TestClassObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/TestClassState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/TestClassSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/TestClassTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/TestEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/TestK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/transformNumberTest.java" afterDir="false" />
+
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +93,20 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.TestClasses.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Using-Operators-and-Decision-Constructs&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }]]></component>
   <component name="RunManager">
@@ -100,6 +149,8 @@
       <workItem from="1742278375960" duration="17581000" />
       <workItem from="1742362074530" duration="373000" />
       <workItem from="1742454456535" duration="3966000" />
+      <workItem from="1742501342066" duration="5000" />
+      <workItem from="1742796513038" duration="13870000" />
     </task>
     <servers />
   </component>
