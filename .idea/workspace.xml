@@ -5,6 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e16190d6-52c8-49b3-bc65-bc6c9d3b6432" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/JavaDataTypes/AccessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaDataTypes/Discounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaDataTypes/InitClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaDataTypes/InitClassBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaDataTypes/Noobs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaDataTypes/SomeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaDataTypes/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaDataTypes/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaDataTypes/TestClassGarb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaDataTypes/TestClassInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaDataTypes/TestClassResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaDataTypes/TestClassUnassigned.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaDataTypes/TestInteger.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/ArithmeticOperations.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/BooleanOperator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/BooleanOperatorcode.java" afterDir="false" />
@@ -39,6 +52,7 @@
       <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/TestEquals.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/TestK.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OperatorsandConstructs/transformNumberTest.java" afterDir="false" />
+
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +79,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TestClasses.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Java-Data-Types",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.TestClasses.executor&quot;: &quot;Run&quot;,
@@ -80,7 +108,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="TestClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="workingWith.Methods.TestClasses" />
