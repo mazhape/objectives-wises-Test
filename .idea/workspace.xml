@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e16190d6-52c8-49b3-bc65-bc6c9d3b6432" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InstanceOfOperator/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InstanceOfOperator/TestClassBird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InstanceOfOperator/TestClassCorrect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InstanceOfOperator/TestClassFlyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InstanceOfOperator/TestClassLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InstanceOfOperator/TestClassShort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InstanceOfOperator/TestDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/DataClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/DataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/LambdaExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/PredicateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/ProcessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressions/TestClassArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,22 +39,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.TestClasses.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Instanceof-Operator&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TestClasses.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Lambda-Expressions",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="TestClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="workingWith.Methods.TestClasses" />
@@ -73,14 +74,6 @@
         <item itemvalue="Application.TestClasses" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
